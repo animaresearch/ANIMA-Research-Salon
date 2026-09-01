@@ -1,5 +1,7 @@
 # ANIMA Research Salon
 
+**Independent Teams → Adversarial Examiner → Repair → Elimination/Inheritance → Next Generation → Final Verification**
+
 ANIMA Research Salon is a working prototype for studying whether AI research systems can improve across generations while preserving criticism, failed approaches, and reusable knowledge.
 
 The project asks three long-horizon questions:
@@ -41,9 +43,10 @@ This repository is a portfolio-level public record. It intentionally excludes pr
 
 See [Public Disclosure Scope](PUBLIC_DISCLOSURE_SCOPE.md).
 
+See [Evaluation Plan](docs/EVALUATION_PLAN.md) for the experimental metrics used to evaluate generational improvement.
+
 ## Project status
 
 Working prototype. Research and evaluation are ongoing.
 
 Copyright © 2026 ANIMA Research. All rights reserved.
-
